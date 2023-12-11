@@ -3,9 +3,9 @@ const quizData = [
     quistion: "WHat does HtML stand for?",
     options: [
       "Hypertext Markup Language",
-      "Hyper Transfer aTW",
-      "Buat kah",
-      "asuw",
+      "Hyper Transfer Marukup Language",
+      "Hyper languge",
+      "Css",
     ],
     correct: 0,
   },
@@ -15,13 +15,18 @@ const quizData = [
     correct: 1,
   },
   {
-    quistion: "Tag CSS untuk ",
+    quistion: "Tag CSS untuk jarak luar elemen ",
     options: ["margin", "padding", "postion", "text"],
-    correct: 1,
+    correct: 0,
   },
   {
-    quistion: " Jarak dalam element",
-    options: ["margin", "padding", "postion", "text"],
+    quistion: "css singkatan dari",
+    options: [
+      "Crud Sistem sys",
+      "Cascading sheet style",
+      "Cascading style Sheet",
+      "benar semua",
+    ],
     correct: 1,
   },
 ];
